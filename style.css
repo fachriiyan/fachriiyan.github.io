@@ -1,0 +1,74 @@
+html, body, ul, li, ol, h1, h2, h3, h4, h5, h6, p, form, input, div {
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "Avenir Next";
+}
+	
+.container{
+	width: 100%;
+	margin: 0 auto;
+}
+header li{
+list-style: none;
+	float:left;
+	padding:33px 20px;
+	color: #000000;
+}
+
+header {
+	background-color: #191970;
+	height: 90px
+
+}
+header ul li a{
+	padding:5px 15px;
+	display: inline-block;
+}
+.btn.map{
+	color:#00BFFF;
+	font-size: 12px;
+	padding: 33px 100px;
+	float: left;
+}
+.header-right  {
+	color:#FFFFFF;
+	font-size: 30px;
+	float:right;
+	display: inline-block;
+	padding-bottom: 70px;
+	text-align: center;
+}
+.top-wrapper{
+	background-image: url(https://wallpaperaccess.com/full/1952512.jpg);
+	background-size: cover;
+	padding: 500px;
+	height: 60px;
+}
+.top-wrapper p{
+	font-size: 20px;
+	padding: 100px ;
+
+}
+.top-wrapper h1{
+	font-size:40px;
+	color:#fff;
+	margin:50px 20px;
+}
+nav{
+	float:left;
+	margin-left:250px;
+	border: 1px solid 1;
+	background-color: #FFFFFF;
+}
+.booknow{
+	background-color: #FFA407;
+	margin-left: 200px;
+	border: 1px solid 1;
+	border-radius: 4px;
+	padding: 10px;
+}
+h1 span{
+margin-left:68px;
+}
